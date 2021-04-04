@@ -1,0 +1,308 @@
+--------- beginning of main
+04-04 08:45:21.775 26776 26776 E ware.j2meloade: Not starting debugger since process cannot load the jdwp agent.
+04-04 08:45:21.800 26776 26776 D ActivityThread: setConscryptValidator
+04-04 08:45:21.800 26776 26776 D ActivityThread: setConscryptValidator - put
+04-04 08:45:22.031 26776 26776 I ACRA    : ACRA is enabled for ru.playsoftware.j2meloader, initializing...
+04-04 08:45:22.401 26776 26776 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4238 com.android.internal.policy.DecorView.updateColorViews:1491 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3216 android.view.Window.setFlags:1148 com.android.internal.policy.PhoneWindow.generateLayout:2444 
+04-04 08:45:22.403 26776 26776 I MultiWindowDecorSupport: updateCaptionType >> DecorView@f43a75f[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+04-04 08:45:22.403 26776 26776 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@f43a75f[]
+04-04 08:45:22.577 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: setView = com.android.internal.policy.DecorView@f43a75f TM=true MM=false
+04-04 08:45:22.606 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=13 res=0x7 s={true 3898130432} ch=true
+04-04 08:45:22.606 26776 26841 D OpenGLRenderer: createReliableSurface : 0xd9716540, 0xe858c000
+04-04 08:45:22.606 26776 26841 I AdrenoGLES: QUALCOMM build                   : d2c8171, I3066aca902
+04-04 08:45:22.606 26776 26841 I AdrenoGLES: Build Date                       : 06/26/20
+04-04 08:45:22.606 26776 26841 I AdrenoGLES: OpenGL ES Shader Compiler Version: EV031.27.05.03
+04-04 08:45:22.606 26776 26841 I AdrenoGLES: Local Branch                     : 
+04-04 08:45:22.606 26776 26841 I AdrenoGLES: Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.8.6.R1.10.00.00.578.029
+04-04 08:45:22.606 26776 26841 I AdrenoGLES: Remote Branch                    : NONE
+04-04 08:45:22.606 26776 26841 I AdrenoGLES: Reconstruct Branch               : NOTHING
+04-04 08:45:22.607 26776 26841 I AdrenoGLES: Build Config                     : S L 8.0.12 AArch32
+04-04 08:45:22.616 26776 26841 I AdrenoGLES: PFP: 0x005ff112, ME: 0x005ff066
+04-04 08:45:22.671 26776 26841 W Gralloc3: mapper 3.x is not supported
+04-04 08:45:22.970 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+04-04 08:45:22.970 26776 26776 D InputMethodManager: prepareNavigationBarInfo() DecorView@f43a75f[MainActivity]
+04-04 08:45:22.970 26776 26776 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:22.983 26776 26776 D EmergencyMode: [EmergencyManager] android createPackageContext successful
+04-04 08:45:22.988 26776 26776 D InputMethodManager: prepareNavigationBarInfo() DecorView@f43a75f[MainActivity]
+04-04 08:45:22.988 26776 26776 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:22.988 26776 26776 V InputMethodManager: Starting input: tba=ru.playsoftware.j2meloader ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+04-04 08:45:22.989 26776 26776 D InputMethodManager: startInputInner - Id : 0
+04-04 08:45:22.989 26776 26776 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+04-04 08:45:23.002 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,126) vi=(0,63,0,126) or=1
+04-04 08:45:23.003 26776 26776 D InputMethodManager: prepareNavigationBarInfo() DecorView@f43a75f[MainActivity]
+04-04 08:45:23.003 26776 26776 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:23.003 26776 26776 V InputMethodManager: Starting input: tba=ru.playsoftware.j2meloader ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+04-04 08:45:23.003 26776 26776 D InputMethodManager: startInputInner - Id : 0
+04-04 08:45:23.102 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=12 res=0x1 s={true 3898130432} ch=false
+04-04 08:45:23.201 26776 26776 D AbsListView:  in onLayout changed 
+04-04 08:45:24.379 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+04-04 08:45:24.379 26776 26776 D InputMethodManager: prepareNavigationBarInfo() DecorView@f43a75f[MainActivity]
+04-04 08:45:24.379 26776 26776 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:24.540 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: stopped(false) old=false
+04-04 08:45:24.564 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=14 res=0x1 s={true 3898130432} ch=false
+04-04 08:45:24.564 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+04-04 08:45:24.564 26776 26776 D InputMethodManager: prepareNavigationBarInfo() DecorView@f43a75f[MainActivity]
+04-04 08:45:24.564 26776 26776 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:25.152 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: ViewPostIme pointer 0
+04-04 08:45:25.275 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: ViewPostIme pointer 1
+04-04 08:45:25.276 26776 26776 D AbsListView: onTouchUp() mTouchMode : 1
+04-04 08:45:25.394 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+04-04 08:45:25.394 26776 26776 D InputMethodManager: prepareNavigationBarInfo() DecorView@f43a75f[MainActivity]
+04-04 08:45:25.394 26776 26776 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:25.433 27226 27226 E meloader:midle: Not starting debugger since process cannot load the jdwp agent.
+04-04 08:45:25.443 27226 27226 D ActivityThread: setConscryptValidator
+04-04 08:45:25.443 27226 27226 D ActivityThread: setConscryptValidator - put
+04-04 08:45:25.506 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=8 res=0x5 s={false 0} ch=true
+04-04 08:45:25.605 27226 27226 I ACRA    : ACRA is enabled for ru.playsoftware.j2meloader, initializing...
+04-04 08:45:25.715 27226 27226 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4238 com.android.internal.policy.DecorView.updateColorViews:1491 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3216 android.view.Window.setFlags:1148 com.android.internal.policy.PhoneWindow.generateLayout:2444 
+04-04 08:45:25.716 27226 27226 I MultiWindowDecorSupport: updateCaptionType >> DecorView@a26420a[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+04-04 08:45:25.716 27226 27226 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@a26420a[]
+04-04 08:45:26.360 27226 27305 W meloader:midle: Unsupported class loader
+04-04 08:45:26.393 27226 27226 D ViewRootImpl@31e9299[MicroActivity]: setView = com.android.internal.policy.DecorView@a26420a TM=true MM=false
+04-04 08:45:26.406 27226 27305 I javax.microedition.shell.MicroLoader: loadMIDletList main: GMIDlet from dex:/storage/emulated/0/J2ME-Loader/converted/Bomberman3D/converted.dex
+04-04 08:45:26.406 27226 27305 I javax.microedition.shell.MicroLoader: MIDlet-Name: Bomberman3D
+04-04 08:45:26.458 27226 27305 W meloader:midle: Class ac failed lock verification and will run slower.
+04-04 08:45:26.458 27226 27305 W meloader:midle: Common causes for lock verification issues are non-optimized dex code
+04-04 08:45:26.458 27226 27305 W meloader:midle: and incorrect proguard optimizations.
+04-04 08:45:26.493 27226 27226 D ViewRootImpl@31e9299[MicroActivity]: Relayout returned: old=(0,0,2220,1080) new=(0,0,2220,1080) req=(2220,1080)0 dur=47 res=0x7 s={true 3613407232} ch=true
+04-04 08:45:26.493 27226 27276 D OpenGLRenderer: createReliableSurface : 0xd9716180, 0xd7603800
+04-04 08:45:26.493 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /lang
+04-04 08:45:26.494 27226 27276 I AdrenoGLES: QUALCOMM build                   : d2c8171, I3066aca902
+04-04 08:45:26.494 27226 27276 I AdrenoGLES: Build Date                       : 06/26/20
+04-04 08:45:26.494 27226 27276 I AdrenoGLES: OpenGL ES Shader Compiler Version: EV031.27.05.03
+04-04 08:45:26.494 27226 27276 I AdrenoGLES: Local Branch                     : 
+04-04 08:45:26.494 27226 27276 I AdrenoGLES: Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.8.6.R1.10.00.00.578.029
+04-04 08:45:26.494 27226 27276 I AdrenoGLES: Remote Branch                    : NONE
+04-04 08:45:26.494 27226 27276 I AdrenoGLES: Reconstruct Branch               : NOTHING
+04-04 08:45:26.494 27226 27276 I AdrenoGLES: Build Config                     : S L 8.0.12 AArch32
+04-04 08:45:26.502 27226 27276 I AdrenoGLES: PFP: 0x005ff112, ME: 0x005ff066
+04-04 08:45:26.549 27226 27276 W Gralloc3: mapper 3.x is not supported
+04-04 08:45:26.601 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /l18n__en
+04-04 08:45:26.606 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /l18n__de
+04-04 08:45:26.609 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /l18n__fr
+04-04 08:45:26.611 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /l18n__it
+04-04 08:45:26.614 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /lm
+04-04 08:45:26.673 27226 27226 D SurfaceView: onWindowVisibilityChanged(0) true javax.microedition.lcdui.graphics.CanvasView{936251a VFE...... ......I. 0,0-0,0} of ViewRootImpl@31e9299[MicroActivity]
+04-04 08:45:26.676 27226 27226 D ViewRootImpl@31e9299[MicroActivity]: MSG_RESIZED_REPORT: frame=(0,0,2220,1080) ci=(0,63,126,0) vi=(0,63,126,0) or=2
+04-04 08:45:26.676 27226 27226 D ViewRootImpl@31e9299[MicroActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+04-04 08:45:26.676 27226 27226 D InputMethodManager: prepareNavigationBarInfo() DecorView@a26420a[MicroActivity]
+04-04 08:45:26.676 27226 27226 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:26.679 27226 27226 D InputMethodManager: prepareNavigationBarInfo() DecorView@a26420a[MicroActivity]
+04-04 08:45:26.679 27226 27226 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:26.680 27226 27226 V InputMethodManager: Starting input: tba=ru.playsoftware.j2meloader ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+04-04 08:45:26.680 27226 27226 D InputMethodManager: startInputInner - Id : 0
+04-04 08:45:26.681 27226 27226 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+04-04 08:45:26.693 26776 26776 D InputTransport: Input channel destroyed: 'ClientS', fd=79
+04-04 08:45:26.733 27226 27226 D ViewRootImpl@31e9299[MicroActivity]: Relayout returned: old=(0,0,2220,1080) new=(0,0,2220,1080) req=(2220,1080)0 dur=20 res=0x1 s={true 3613407232} ch=false
+04-04 08:45:26.745 27226 27226 D SurfaceView: surfaceCreated 1 #8 javax.microedition.lcdui.graphics.CanvasView{936251a VFE...... .F....ID 0,0-2220,996}
+04-04 08:45:26.746 27226 27226 D SurfaceView: surfaceChanged (2220,996) 1 #8 javax.microedition.lcdui.graphics.CanvasView{936251a VFE...... .F....ID 0,0-2220,996}
+04-04 08:45:26.833 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /l
+04-04 08:45:26.857 27226 27226 D InputMethodManager: prepareNavigationBarInfo() DecorView@a26420a[MicroActivity]
+04-04 08:45:26.857 27226 27226 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:26.858 27226 27226 V InputMethodManager: Starting input: tba=ru.playsoftware.j2meloader ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : false , NavTrans : false
+04-04 08:45:26.858 27226 27226 D InputMethodManager: startInputInner - Id : 0
+04-04 08:45:26.859 27226 27226 D ViewRootImpl@31e9299[MicroActivity]: MSG_RESIZED: frame=(0,0,2220,1080) ci=(0,63,0,0) vi=(0,63,0,0) or=2
+04-04 08:45:26.860 27226 27226 D ViewRootImpl@31e9299[MicroActivity]: MSG_RESIZED: frame=(0,0,2220,1080) ci=(0,0,0,0) vi=(0,0,0,0) or=2
+04-04 08:45:26.878 27226 27226 D ViewRootImpl@31e9299[MicroActivity]: Relayout returned: old=(0,0,2220,1080) new=(0,0,2220,1080) req=(2220,1080)0 dur=6 res=0x1 s={true 3613407232} ch=false
+04-04 08:45:26.899 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: stopped(true) old=false
+04-04 08:45:26.926 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)8 dur=8 res=0x5 s={false 0} ch=false
+04-04 08:45:27.844 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.845 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.845 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.845 27226 27307 I System.out: Game.loadTextureAnim()2
+04-04 08:45:27.845 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 6 lines
+04-04 08:45:27.845 27226 27307 I System.out: Game.loadTextureAnim()2
+04-04 08:45:27.846 27226 27307 I System.out: Game.loadTextureAnim()8
+04-04 08:45:27.846 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.846 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.846 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.846 27226 27307 I System.out: Game.loadTextureAnim()7
+04-04 08:45:27.846 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.846 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.846 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.846 27226 27307 I System.out: Game.loadTextureAnim()7
+04-04 08:45:27.847 27226 27307 I System.out: Game.loadTextureAnim()2
+04-04 08:45:27.847 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.847 27226 27307 I System.out: Game.loadTextureAnim()2
+04-04 08:45:27.847 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.847 27226 27307 I System.out: Game.loadTextureAnim()2
+04-04 08:45:27.847 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.847 27226 27307 I System.out: Game.loadTextureAnim()2
+04-04 08:45:27.847 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.847 27226 27307 I System.out: Game.loadTextureAnim()2
+04-04 08:45:27.848 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.848 27226 27307 I System.out: Game.loadTextureAnim()2
+04-04 08:45:27.848 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.848 27226 27307 I System.out: Game.loadTextureAnim()2
+04-04 08:45:27.848 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.848 27226 27307 I System.out: Game.loadTextureAnim()2
+04-04 08:45:27.848 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.848 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.848 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.849 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.849 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.849 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.849 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.849 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.849 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.849 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.849 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.849 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.850 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.850 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.850 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.850 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.850 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.850 27226 27307 I System.out: Game.loadTextureAnim()3
+04-04 08:45:27.850 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.850 27226 27307 I System.out: Game.loadTextureAnim()3
+04-04 08:45:27.850 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.850 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.850 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.850 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.851 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.851 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.851 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.851 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.851 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.852 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.852 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 2 lines
+04-04 08:45:27.852 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.852 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.852 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.852 27226 27307 I System.out: Game.loadTextureAnim()4
+04-04 08:45:27.852 27226 27307 I System.out: Game.loadTextureAnim()13
+04-04 08:45:27.852 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.852 27226 27307 I System.out: Game.loadTextureAnim()2
+04-04 08:45:27.852 27226 27307 I chatty  : uid=11643(ru.playsoftware.j2meloader) identical 1 line
+04-04 08:45:27.852 27226 27307 I System.out: Game.loadTextureAnim()2
+04-04 08:45:27.852 27226 27307 I System.out: Game.loadTextureAnim()6
+04-04 08:45:27.853 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /spr
+04-04 08:45:27.857 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /s0
+04-04 08:45:27.911 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /s1
+04-04 08:45:27.969 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /s2
+04-04 08:45:28.026 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /s3
+04-04 08:45:28.084 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /s4
+04-04 08:45:28.140 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /s5
+04-04 08:45:28.197 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /s6
+04-04 08:45:28.252 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /s7
+04-04 08:45:28.306 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /s8
+04-04 08:45:28.359 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /s9
+04-04 08:45:28.413 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /font
+04-04 08:45:28.714 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /l18n__en
+04-04 08:45:34.955 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /splash
+04-04 08:45:39.296 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /lp__en
+04-04 08:45:39.350 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /lp__de
+04-04 08:45:39.407 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /lp__fr
+04-04 08:45:39.465 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: /lp__it
+04-04 08:45:39.523 27226 27307 D javax.microedition.shell.AppClassLoader: CUSTOM GET RES CALLED WITH PATH: lpok
+--------- beginning of crash
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: FATAL EXCEPTION: Thread-8
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: Process: ru.playsoftware.j2meloader:midlet, PID: 27226
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/ru.playsoftware.j2meloader-Ru2QS1PaQe5bb4Uwi7lKOg==/base.apk"],nativeLibraryDirectories=[/data/app/ru.playsoftware.j2meloader-Ru2QS1PaQe5bb4Uwi7lKOg==/lib/arm, /system/lib, /vendor/lib, /system/product/lib]]] couldn't find "libjavam3g.so"
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary0(Runtime.java:1067)
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary0(Runtime.java:1007)
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:1667)
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: 	at javax.microedition.m3g.Platform.uiThreadAvailable(Platform.java:2)
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: 	at javax.microedition.m3g.Transform.<init>(Transform.java:3)
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: 	at t.<clinit>(Unknown Source:32)
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: 	at t.a(Unknown Source:0)
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: 	at c.a(Unknown Source:13)
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: 	at ac.run(Unknown Source:157)
+04-04 08:45:39.615 27226 27307 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:919)
+04-04 08:45:39.616 27226 27307 E ACRA    : ACRA caught a UnsatisfiedLinkError for ru.playsoftware.j2meloader
+04-04 08:45:39.616 27226 27307 E ACRA    : java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/ru.playsoftware.j2meloader-Ru2QS1PaQe5bb4Uwi7lKOg==/base.apk"],nativeLibraryDirectories=[/data/app/ru.playsoftware.j2meloader-Ru2QS1PaQe5bb4Uwi7lKOg==/lib/arm, /system/lib, /vendor/lib, /system/product/lib]]] couldn't find "libjavam3g.so"
+04-04 08:45:39.616 27226 27307 E ACRA    : 	at java.lang.Runtime.loadLibrary0(Runtime.java:1067)
+04-04 08:45:39.616 27226 27307 E ACRA    : 	at java.lang.Runtime.loadLibrary0(Runtime.java:1007)
+04-04 08:45:39.616 27226 27307 E ACRA    : 	at java.lang.System.loadLibrary(System.java:1667)
+04-04 08:45:39.616 27226 27307 E ACRA    : 	at javax.microedition.m3g.Platform.uiThreadAvailable(Platform.java:2)
+04-04 08:45:39.616 27226 27307 E ACRA    : 	at javax.microedition.m3g.Transform.<init>(Transform.java:3)
+04-04 08:45:39.616 27226 27307 E ACRA    : 	at t.<clinit>(Unknown Source:32)
+04-04 08:45:39.616 27226 27307 E ACRA    : 	at t.a(Unknown Source:0)
+04-04 08:45:39.616 27226 27307 E ACRA    : 	at c.a(Unknown Source:13)
+04-04 08:45:39.616 27226 27307 E ACRA    : 	at ac.run(Unknown Source:157)
+04-04 08:45:39.616 27226 27307 E ACRA    : 	at java.lang.Thread.run(Thread.java:919)
+04-04 08:45:40.010 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)4 dur=161 res=0x1 s={false 0} ch=false
+04-04 08:45:40.021 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: stopped(false) old=true
+04-04 08:45:40.050 27226 27307 I Process : Sending signal. PID: 27226 SIG: 9
+04-04 08:45:40.063 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: stopped(false) old=false
+04-04 08:45:40.142 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=18 res=0x7 s={true 3121725440} ch=true
+04-04 08:45:40.142 26776 26841 D OpenGLRenderer: createReliableSurface : 0xd9716540, 0xba11c000
+04-04 08:45:40.192 26776 26776 D AbsListView:  in onLayout changed 
+04-04 08:45:40.252 27469 27469 E j2meloader:acr: Not starting debugger since process cannot load the jdwp agent.
+04-04 08:45:40.255 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+04-04 08:45:40.256 26776 26776 D InputMethodManager: prepareNavigationBarInfo() DecorView@f43a75f[MainActivity]
+04-04 08:45:40.256 26776 26776 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:40.258 26776 26776 D InputMethodManager: prepareNavigationBarInfo() DecorView@f43a75f[MainActivity]
+04-04 08:45:40.258 26776 26776 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:40.258 26776 26776 V InputMethodManager: Starting input: tba=ru.playsoftware.j2meloader ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+04-04 08:45:40.259 26776 26776 D InputMethodManager: startInputInner - Id : 0
+04-04 08:45:40.259 26776 26776 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+04-04 08:45:40.263 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: MSG_RESIZED_REPORT: frame=(0,0,1080,2220) ci=(0,63,0,126) vi=(0,63,0,126) or=1
+04-04 08:45:40.264 27469 27469 D ActivityThread: setConscryptValidator
+04-04 08:45:40.264 27469 27469 D ActivityThread: setConscryptValidator - put
+04-04 08:45:40.342 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=23 res=0x1 s={true 3121725440} ch=false
+04-04 08:45:40.343 26776 26841 D OpenGLRenderer: createReliableSurface : 0xba1899c0, 0xba11c000
+04-04 08:45:40.399 26776 26776 D AbsListView:  in onLayout changed 
+04-04 08:45:40.424 27469 27469 W ACRA    : ErrorReporter#a called in SenderService process. THIS CALL WILL BE IGNORED!
+04-04 08:45:40.434 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+04-04 08:45:40.434 26776 26776 D InputMethodManager: prepareNavigationBarInfo() DecorView@f43a75f[MainActivity]
+04-04 08:45:40.434 26776 26776 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:40.519 27469 27469 D ScrollView: initGoToTop
+04-04 08:45:40.523 27469 27469 D Dialog  : mIsSamsungBasicInteraction = false
+04-04 08:45:40.523 27469 27469 D Dialog  : mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+04-04 08:45:40.528 27469 27469 I MultiWindowDecorSupport: updateCaptionType >> DecorView@aab7ab0[], isFloating: true, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: false
+04-04 08:45:40.528 27469 27469 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@aab7ab0[]
+04-04 08:45:40.547 27469 27469 D ScrollView: initGoToTop
+04-04 08:45:40.553 27469 27469 D ScrollView: initGoToTop
+04-04 08:45:40.573 27469 27469 D ViewRootImpl@31e9299[CrashReportDialog]: setView = com.android.internal.policy.DecorView@aab7ab0 TM=true MM=false
+04-04 08:45:40.583 27469 27469 I MultiWindowDecorSupport: updateCaptionType >> DecorView@a678d6a[], isFloating: true, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+04-04 08:45:40.583 27469 27469 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@a678d6a[]
+04-04 08:45:40.595 27469 27469 D ViewRootImpl@31e9299[CrashReportDialog]: stopped(false) old=false
+04-04 08:45:40.600 27469 27469 D ViewRootImpl@b24aedf[CrashReportDialog]: setView = com.android.internal.policy.DecorView@a678d6a TM=true MM=false
+04-04 08:45:40.627 27469 27469 D ViewRootImpl@31e9299[CrashReportDialog]: Relayout returned: old=(0,63,1080,2094) new=(28,804,1052,1353) req=(1024,549)0 dur=9 res=0x7 s={true 3612680192} ch=true
+04-04 08:45:40.628 27469 27491 D OpenGLRenderer: createReliableSurface : 0xe8524480, 0xd7552000
+04-04 08:45:40.628 27469 27491 I AdrenoGLES: QUALCOMM build                   : d2c8171, I3066aca902
+04-04 08:45:40.628 27469 27491 I AdrenoGLES: Build Date                       : 06/26/20
+04-04 08:45:40.628 27469 27491 I AdrenoGLES: OpenGL ES Shader Compiler Version: EV031.27.05.03
+04-04 08:45:40.628 27469 27491 I AdrenoGLES: Local Branch                     : 
+04-04 08:45:40.628 27469 27491 I AdrenoGLES: Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.8.6.R1.10.00.00.578.029
+04-04 08:45:40.628 27469 27491 I AdrenoGLES: Remote Branch                    : NONE
+04-04 08:45:40.628 27469 27491 I AdrenoGLES: Reconstruct Branch               : NOTHING
+04-04 08:45:40.628 27469 27491 I AdrenoGLES: Build Config                     : S L 8.0.12 AArch32
+04-04 08:45:40.631 27469 27469 D ScrollView:  onsize change changed 
+04-04 08:45:40.631 27469 27469 D ScrollView:  onsize change changed 
+04-04 08:45:40.635 27469 27491 I AdrenoGLES: PFP: 0x005ff112, ME: 0x005ff066
+04-04 08:45:40.658 27469 27469 E DecorView: mWindow.mActivityCurrentConfig is null
+04-04 08:45:40.661 27469 27491 W Gralloc3: mapper 3.x is not supported
+04-04 08:45:40.767 27469 27469 D ViewRootImpl@b24aedf[CrashReportDialog]: Relayout returned: old=(0,63,1080,2094) new=(498,1036,582,1120) req=(84,84)0 dur=9 res=0x7 s={true 3612682240} ch=true
+04-04 08:45:40.767 27469 27491 D OpenGLRenderer: createReliableSurface : 0xe8525d40, 0xd7552800
+04-04 08:45:40.775 27469 27469 D ViewRootImpl@31e9299[CrashReportDialog]: MSG_WINDOW_FOCUS_CHANGED 1 1
+04-04 08:45:40.776 27469 27469 D ViewRootImpl@31e9299[CrashReportDialog]: MSG_RESIZED_REPORT: frame=(28,804,1052,1353) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+04-04 08:45:40.776 27469 27469 D ViewRootImpl@b24aedf[CrashReportDialog]: MSG_RESIZED: frame=(498,1036,582,1120) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+04-04 08:45:42.363 27469 27469 D ViewRootImpl@31e9299[CrashReportDialog]: ViewPostIme pointer 0
+04-04 08:45:42.481 27469 27469 D ViewRootImpl@31e9299[CrashReportDialog]: ViewPostIme pointer 1
+04-04 08:45:42.538 27469 27469 D ViewRootImpl@31e9299[CrashReportDialog]: dispatchDetachedFromWindow
+04-04 08:45:42.546 27469 27469 D InputTransport: Input channel destroyed: '2c04ea1', fd=59
+04-04 08:45:42.564 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: stopped(false) old=false
+04-04 08:45:42.593 27469 27469 D ViewRootImpl@b24aedf[CrashReportDialog]: stopped(true) old=false
+04-04 08:45:42.596 27469 27469 D ViewRootImpl@b24aedf[CrashReportDialog]: dispatchDetachedFromWindow
+04-04 08:45:42.609 27469 27469 D InputTransport: Input channel destroyed: '756fbb4', fd=60
+04-04 08:45:43.286 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+04-04 08:45:43.286 26776 26776 D InputMethodManager: prepareNavigationBarInfo() DecorView@f43a75f[MainActivity]
+04-04 08:45:43.286 27469 27469 E ViewRootImpl: sendUserActionEvent() mView returned.
+04-04 08:45:43.286 26776 26776 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:43.562 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: ViewPostIme pointer 0
+04-04 08:45:43.643 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: ViewPostIme pointer 1
+04-04 08:45:43.699 26776 26776 D ViewRootImpl@6b0bfb7[PopupWindow:747778]: setView = android.widget.PopupWindow$PopupDecorView@2359324 TM=true MM=false
+04-04 08:45:43.729 26776 26776 D ViewRootImpl@6b0bfb7[PopupWindow:747778]: Relayout returned: old=(0,63,1080,2094) new=(555,73,1070,955) req=(515,882)0 dur=10 res=0x7 s={true 3898136576} ch=true
+04-04 08:45:43.730 26776 26841 D OpenGLRenderer: createReliableSurface : 0xe8577c80, 0xe858d800
+04-04 08:45:43.753 26776 26776 D AbsListView:  in onLayout changed 
+04-04 08:45:43.820 26776 26776 D ViewRootImpl@6b0bfb7[PopupWindow:747778]: MSG_WINDOW_FOCUS_CHANGED 1 1
+04-04 08:45:43.827 26776 26776 D ViewRootImpl@6b0bfb7[PopupWindow:747778]: MSG_RESIZED: frame=(555,73,1070,955) ci=(0,0,0,0) vi=(0,0,0,0) or=1
+04-04 08:45:43.827 26776 26776 D ViewRootImpl@8b6e7c7[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0 1
+04-04 08:45:43.827 26776 26776 D InputMethodManager: prepareNavigationBarInfo() DecorView@f43a75f[MainActivity]
+04-04 08:45:43.827 26776 26776 D InputMethodManager: getNavigationBarColor() -855310
+04-04 08:45:49.110 26776 26776 D ViewRootImpl@6b0bfb7[PopupWindow:747778]: ViewPostIme pointer 0
+04-04 08:45:49.297 26776 26776 D ViewRootImpl@6b0bfb7[PopupWindow:747778]: ViewPostIme pointer 1
+04-04 08:45:49.298 26776 26776 D AbsListView: onTouchUp() mTouchMode : 2
